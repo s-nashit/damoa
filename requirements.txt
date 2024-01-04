@@ -3,7 +3,7 @@ dj-database-url
 Django
 django-environ
 gunicorn
-psycopg2-binary==2.9.7
+psycopg2-binary
 pytz==2023.3
 sqlparse==0.2.2
 tzdata==2023.3
