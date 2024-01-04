@@ -4,7 +4,7 @@ Django
 django-environ
 gunicorn
 psycopg2-binary
-pytz==2023.3
+pytz
 sqlparse==0.2.2
 tzdata==2023.3
 whitenoise==6.5.0
