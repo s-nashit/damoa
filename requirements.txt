@@ -6,5 +6,5 @@ gunicorn
 psycopg2-binary
 pytz
 sqlparse
-tzdata==2023.3
+tzdata
 whitenoise==6.5.0
