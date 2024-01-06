@@ -7,4 +7,3 @@ psycopg2-binary
 pytz
 sqlparse
 tzdata
-whitenoise
